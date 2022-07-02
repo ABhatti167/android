@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="_09_09_2021">09/09/2021</string>
+    <string name="calculate_your">Calculate your</string>
+    <string name="age">Age</string>
+    <string name="in_minutes">in minutes</string>
+    <string name="select_age">Select Age</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="_1500">1500</string>
+    <string name="in_minutes_till_date">In minutes till date</string>
+</resources>
